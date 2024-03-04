@@ -1,0 +1,134 @@
+html {
+  background: #0c6c9d;
+}
+
+body {
+  text-align: center;
+  width: 900px;
+  padding: 30px 50px;
+  margin: 20px auto;
+  border-radius: 20px;
+  background: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+#Table1 {
+  border: 1px solid red;
+  margin: 30px auto;
+}
+
+#Table1 td {
+  border: 1px dotted blue;
+  padding: 10px;
+}
+
+#row-1 {
+  background-color: #053561;
+  color: white;
+}
+
+.block {
+  background-color: black;
+  color: white;
+}
+
+.time {
+  font-size: 8px;
+  font-style: italic;
+}
+
+.subject:hover {
+  background: #06413a;
+  color: white;
+  cursor: cell;
+  font-size: 12px;
+
+  transition: font-size 0.5s, background 0.5s, color 0.5s;
+}
+
+img {
+  width: 75px;
+}
+
+#Table2 {
+  border: none;
+  margin: 20px auto;
+  background-color: #0c6c9d;
+  border-radius: 35px;
+}
+
+.TD2 {
+  border: none;
+  padding-top: 5px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 5px;
+}
+
+#Soc {
+  text-decoration: underline white;
+  text-underline-offset: 20px;
+}
+
+#Table3 {
+  border: 2px solid grey;
+  background-color: skyblue;
+  border-bottom: 2px solid black;
+  border-right: 2px solid black;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 17.5px;
+  text-align: center;
+  margin: auto;
+}
+
+#Table3 td {
+  border: 2px solid gray;
+  border-top: 1px solid black;
+  border-left: 1px solid black;
+}
+
+#H2-College {
+  padding-top: 15px;
+  margin-top: 20px;
+  color: #0c6c9d;
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.blu {
+  color: blue;
+}
+
+.pnk {
+  color: pink;
+}
+
+.red-td {
+  color: red;
+}
+
+.brwn {
+  color: brown;
+}
+
+.ornge {
+  color: orange;
+}
+
+#lab {
+  color: green;
+}
+
+#lnch {
+  text-orientation: upright;
+  writing-mode: vertical-rl;
+}
+
+div {
+  background-color: skyblue;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 35px;
+  margin-top: 25px;
+}
